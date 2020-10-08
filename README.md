@@ -23,4 +23,4 @@ W: Load a game board from existing txt file. Resets move counter
 
 If the game reaches a solution after a move, it will print total number of moves made and terminates the program.
 
-Since the code wasn't written for this purpose and I tried my best to make it playable, some functionalities that are not working on runtime and unreasonable codes can be found here and there.
+This project wasn't intended for end user so I tried my best to make it playable for end user, so some functionalities that are not working on runtime and unreasonable codes can be found.
